@@ -21,11 +21,12 @@
   <div align="center">
   <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="600" height="300"/>
   </div>
+      <div>
+        <div/>
      <h3>
        😊 About Me:<br/>
        <h3/>
-        Hello, my name is Sergey, I'm 22 years old. I'm from Russia, Tyumen.<br>I am graduating from college in Tyumen on the space system "Information systems and programming"<br> I want to become a web developer, specifically .NET<br>In my free time I go in for sports. I do exercises, morning jogging, jumping rope<br>Also, I like to watch TV shows, movies, read books on motivation and psychology.<br>And of course, programming. I often sit looking at manuals, or documentation for the language<br>I didn’t work in IT, but I really want to, for this I need to make a portfolio so that the employer notices me)
-         
+        Hello, my name is Sergey, I'm 22 years old. I am from Russia, Tyumen. I am graduating from college in Tyumen with a degree in Information Systems and Programming.👨‍🎓 I want to become a web developer, specifically .NET. In my free time I go in for sports.🏃 I am engaged in exercises, morning jogging, jumping rope. I also like to watch series, films,🎥 read books on motivation and psychology.📚 And, of course, programming. I often look at manuals and read documentation on the C#🧠 programming language. I didn’t work in IT, but I really want to, and for this I need to make a portfolio so that the employer notices me) And ... here it is!♥️
 </div>
     <div>
       <h1>
@@ -39,6 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </div>
+        ----------------------------------------------------
         
          📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sergeyBastron&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
