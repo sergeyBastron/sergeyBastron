@@ -1,4 +1,5 @@
 # Привет, меня зовут Сергей!
+<img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="500px"/>
 
 ---
 
